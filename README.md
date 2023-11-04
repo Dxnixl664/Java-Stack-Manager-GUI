@@ -1,5 +1,7 @@
 # Java Stack Manager GUI
 
+[Image 1](https://github.com/Dxnixl664/Java-Stack-Manager-GUI/blob/main/img1.png) [Image2](https://github.com/Dxnixl664/Java-Stack-Manager-GUI/blob/main/img2.png) [Image 3](https://github.com/Dxnixl664/Java-Stack-Manager-GUI/blob/main/img3.png)
+
 ## Description
 Java Stack Manager GUI is a Java application that implements basic operations with a user-friendly graphical interface. It is built using JavaFX and provides functionalities like pushing, popping, peeking, and searching within a stack.
 
